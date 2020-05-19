@@ -1,2 +1,0 @@
-# ReactSampleTodoProject
-Created with CodeSandbox
